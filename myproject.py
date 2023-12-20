@@ -39,7 +39,7 @@ def products():
     
     return jsonify(data) 
 
-@app.route('/productscategories')
+@app.route('/products/categories')
 # ‘/’ URL is bound with hello_world() function.
 def categories():
     # Opening JSON file
