@@ -50,6 +50,20 @@ def categories():
     data = json.load(f)
     
     return jsonify(data) 
+
+@app.route('/products/category/<category>')
+# ‘/’ URL is bound with hello_world() function.
+def categories(category):
+    data = {}
+    if category.upper() in ["TAMIL","KANNADA","TELUGU","ENGLISH", "HINDI"]:
+        # Opening JSON file
+        f = open(f'{category.lower()}.json', encoding="utf8")
+        
+        # returns JSON object as 
+        # a dictionary
+    data = json.load(f)
+    
+    return jsonify(data) 
  
 # main driver function
 if __name__ == '__main__':

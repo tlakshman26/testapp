@@ -1,0 +1,62 @@
+[
+    {
+        "id": 9,
+        "title": "1857 KE BHULE BISRE SHAHEED (POP) (TELEGU) (2022)",
+        "price": 210.00,
+        "description": "1857 KE BHULE BISRE SHAHEED (POP) (TELEGU) (2022)",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1661428405_1857_KE_BHULE_BISRE_SHAHEED_(TELEGU)-900x900.jpg",
+        "category": "TELEGU",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "BMI - PANDIT DEENDAYAL UPADHYAYA (TELUGU) (POP) (2019)",
+        "price": 140.00,
+        "description": "BMI - PANDIT DEENDAYAL UPADHYAYA (TELUGU) (POP) (2019)",
+        "category": "TELUGU",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1570093603_pandit_deendayal_upadhayaya_(Telugu)_1-900x900.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "title": "SAHASAVANITHA DURGABAI DESHMUKH (TELUGU) (POP) (2018)",
+        "price": 70.00,
+        "description": "SAHASAVANITHA DURGABAI DESHMUKH (TELUGU) (POP) (2018)",
+        "category": "TELUGU",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1596801163_A-900x900.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 12,
+        "title": "SPOORTHI PRADAATALU BHAGAM-3 (TELUGU) (POP) (2018)",
+        "price": 145.00,
+        "description": "SPOORTHI PRADAATALU BHAGAM-3 (TELUGU) (POP) (2018)",
+        "category": "TELUGU",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1543298915_978-81-230-2868-2_(1)-900x900.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        }
+    },
+    {
+        "id": 13,
+        "title": "SWATANTRA SPOORTHI PRADATA TILAK (TELUGU) (POP) (2018)",
+        "price": 100.00,
+        "description": "SWATANTRA SPOORTHI PRADATA TILAK (TELUGU) (POP) (2018)",
+        "category": "TELUGU",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/978-81-230-2749-4-900x900.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 250
+        }
+    }
+]

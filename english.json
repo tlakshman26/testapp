@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "FIRST CITIZEN - PICTORIAL RECORD OF PRESIDENT RAM NATH KOVIND'S TERM (DEL) (ENGLISH) (2022)",
+        "price": 2650.00,
+        "description": "FIRST CITIZEN - PICTORIAL RECORD OF PRESIDENT RAM NATH KOVIND'S TERM (DEL) (ENGLISH) (2022)",
+        "category": "ENGLISH",
+        "image": "https://www.publicationsdivision.nic.in/image/cach…L_RECORD_OF_PRESIDENT_RAM_NATH_KOVIND-228x228.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "SABKA SAATH SABKA VIKAS SABKA VISHWAS - PRIME MINISTER NARENDRA MODI SPEAKS (JUNE 2020 - MAY 2021) (DEL) (ENGLISH) (2023) ",
+        "price": 1350.00,
+        "description": "SABKA SAATH SABKA VIKAS SABKA VISHWAS - PRIME MINISTER NARENDRA MODI SPEAKS (JUNE 2020 - MAY 2021) (DEL) (ENGLISH) (2023) ",
+        "category": "ENGLISH",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1692944597_sabka_saath_sabka_vikas_vol_-_7_english-228x228.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "MOODS, MOMENTS AND MEMORIES - FORMER PRESIDENTS OF INDIA (1950-2017) : A VISUAL HISTORY (DEL) (2022) ( ENGLISH)",
+        "price": 2680.00,
+        "category": "ENGLISH",
+        "description": "MOODS, MOMENTS AND MEMORIES - FORMER PRESIDENTS OF INDIA (1950-2017) : A VISUAL HISTORY (DEL) (2022) ( ENGLISH)",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1657619717_MOODS_MOMENTS_AND_MEMORIES_FRONT-228x228.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "YOJANA CLASSICS - ART, CULTURE & HERITAGE  (POP) (ENGLISH) (2023)",
+        "price": 205.00,
+        "description": "YOJANA CLASSICS - ART, CULTURE & HERITAGE  (POP) (ENGLISH) (2023)",
+        "category": "ENGLISH",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1691410178_Yojana_Classics_Cover_page-0001-228x228.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 7,
+        "title": "THE WARRIOR DEMOCRAT  (ENGLISH) (DEL) (2021)",
+        "price": 2100,
+        "description": "THE WARRIOR DEMOCRAT  (ENGLISH) (DEL) (2021)",
+        "category": "ENGLISH",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1638172165_THE_WARRIOR_DEMOCRAT_-_SYAMA_PRASAD_MOOKERJEE-228x228.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    }
+]
