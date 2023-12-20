@@ -53,7 +53,7 @@ def categories():
 
 @app.route('/products/category/<category>')
 # ‘/’ URL is bound with hello_world() function.
-def categories(category):
+def categories_filter(category):
     data = {}
     if category.upper() in ["TAMIL","KANNADA","TELUGU","ENGLISH", "HINDI"]:
         # Opening JSON file
