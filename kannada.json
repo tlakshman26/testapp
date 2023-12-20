@@ -1,0 +1,38 @@
+[
+    {
+        "id": 14,
+        "title": "PANDIT BHIMSEN JOSHI (POP) (KANNADA) (2022)",
+        "price": 310.00,
+        "description": "PANDIT BHIMSEN JOSHI (POP) (KANNADA) (2022)",
+        "category": "KANNADA",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1674206971_PANDIT_BHIMSEN_JOSHI_(KANNADA)-900x900.jpg",
+        "rating": {
+            "rate": 2.2,
+            "count": 140
+        }
+    },
+    {
+        "id": 15,
+        "title": "1857 KE BHULE BISRE SHAHEED (POP) (2022) (KANNADA)",
+        "price": 210.00,
+        "description": "1857 KE BHULE BISRE SHAHEED (POP) (2022) (KANNADA)",
+        "category": "KANNADA",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1671537742_1857_ke_bhule_bisre_shaheed-900x900.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 16,
+        "title": "COURTS OF INDIA - PAST TO PRESENT (KANNADA) (DEL) (2021)",
+        "price": 1750.00,
+        "category": "KANNADA",
+        "description": "COURTS OF INDIA - PAST TO PRESENT (KANNADA) (DEL) (2021)",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1629285039_COURTS_OF_INDIA_-_PAST_TO_PRESENT_(DEL)-900x900.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 340
+        }
+    }
+]

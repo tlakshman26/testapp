@@ -1,0 +1,50 @@
+[
+    {
+        "id": 17,
+        "title": "HOGI JEET HAMARI (POP) (TAMIL) (2023)",
+        "price": 39.99,
+        "description": "HOGI JEET HAMARI (POP) (TAMIL) (2023)",
+        "category": "TAMIL",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1693916916_HOGI_JEET_HAMARI_(POP)_(TAMIL)_(2023)-900x900.jpg",
+        "rating": {
+            "rate": 3.8,
+            "count": 679
+        }
+    },
+    {
+        "id": 18,
+        "title": "EKTA KI BOLTI TASVEEREIN (POP) (2022) (TAMIL) ",
+        "price": 190.00,
+        "description": "EKTA KI BOLTI TASVEEREIN (POP) (2022) (TAMIL)",
+        "category": "TAMIL",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1668513092_ekta_ki_bolti_tasveerein-900x900.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 130
+        }
+    },
+    {
+        "id": 19,
+        "title": "GANDHI - WAZHKAI CHITHRAM (POP) (TAMIL) (2022)",
+        "price": 90.00,
+        "description": "GANDHI - WAZHKAI CHITHRAM (POP) (TAMIL) (2022)",
+        "category": "TAMIL",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1653636459_GANDHI_-_WAZHKAI_CHITHRAM-900x900.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    },
+    {
+        "id": 20,
+        "title": "SANCHI KI GUDIYA (TAMIL) (POP) (2022)",
+        "price": 155.00,
+        "description": "SANCHI KI GUDIYA (TAMIL) (POP) (2022)",
+        "category": "TAMIL",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1651128114_SANCHI_KI_GUDIYA_FRONT-900x900.jpg",
+        "rating": {
+            "rate": 3.6,
+            "count": 145
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 5,
+        "title": "AZADI KI LADAI KE - JABTSHUDA TARANE (HINDI) (DEL) (2021)",
+        "price": 440,
+        "description": "AZADI KI LADAI KE - JABTSHUDA TARANE (HINDI) (DEL) (2021)",
+        "category": "HINDI",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1640687106_AZADI_KI_LADAI_KE_-_JABTSHUDA_TARANE_(POP)-228x228.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "SAN SATAVAN KE BHULE-BISRE SHAHEED (HINDI) (POP) (2021)",
+        "price": 170,
+        "description": "SAN SATAVAN KE BHULE-BISRE SHAHEED (HINDI) (POP) (2021)",
+        "category": "HINDI",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1641281102_SAN_SATAAWAN_KE_BHULE_BISRE_SHAHEED-228x228.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    }
+    {
+        "id": 8,
+        "title": "SARDAR PATEL - SACHITRA JEEVANI (HINDI) (POP) (2021)",
+        "price": 10.99,
+        "description": "SARDAR PATEL - SACHITRA JEEVANI (HINDI) (POP) (2021)",
+        "category": "HINDI",
+        "image": "https://www.publicationsdivision.nic.in/image/cache/catalog/1638172165_THE_WARRIOR_DEMOCRAT_-_SYAMA_PRASAD_MOOKERJEE-228x228.jpg",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    }
+]
